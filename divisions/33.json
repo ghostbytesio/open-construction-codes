@@ -1,0 +1,15 @@
+{
+  "division": "33",
+  "title": { "en": "Plant, Equipment & Site Logistics" },
+  "sections": [
+    { "key": "33.00", "title": { "en": "Plant, equipment and site logistics — general" } },
+    { "key": "33.05", "title": { "en": "Tower and mobile crane hire and operation" } },
+    { "key": "33.10", "title": { "en": "Excavators, earthmoving and heavy plant hire" } },
+    { "key": "33.15", "title": { "en": "Access equipment, scaffolding and hoists" } },
+    { "key": "33.20", "title": { "en": "Small plant, tools and consumables" } },
+    { "key": "33.25", "title": { "en": "Temporary works design and equipment" } },
+    { "key": "33.30", "title": { "en": "Material logistics, deliveries and lay-down" } },
+    { "key": "33.35", "title": { "en": "Fuel, plant maintenance and servicing" } },
+    { "key": "33.90", "title": { "en": "Other plant, equipment and logistics" } }
+  ]
+}

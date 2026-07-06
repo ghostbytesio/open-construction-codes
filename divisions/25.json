@@ -1,0 +1,16 @@
+{
+  "division": "25",
+  "title": { "en": "Safety & Security Systems" },
+  "sections": [
+    { "key": "25.00", "title": { "en": "Safety and security systems — general" } },
+    { "key": "25.05", "title": { "en": "Fire detection and alarm" } },
+    { "key": "25.10", "title": { "en": "Voice alarm and emergency communications" } },
+    { "key": "25.15", "title": { "en": "Intruder detection and alarm" } },
+    { "key": "25.20", "title": { "en": "Access control and door entry" } },
+    { "key": "25.25", "title": { "en": "CCTV and video surveillance" } },
+    { "key": "25.30", "title": { "en": "Perimeter security and detection" } },
+    { "key": "25.35", "title": { "en": "Nurse call and assistance systems" } },
+    { "key": "25.40", "title": { "en": "Security integration and control rooms" } },
+    { "key": "25.90", "title": { "en": "Other safety and security systems" } }
+  ]
+}

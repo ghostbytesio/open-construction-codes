@@ -1,0 +1,17 @@
+{
+  "division": "10",
+  "title": { "en": "Cladding & Façades" },
+  "sections": [
+    { "key": "10.00", "title": { "en": "Cladding and façades — general" } },
+    { "key": "10.05", "title": { "en": "Curtain wall systems" } },
+    { "key": "10.10", "title": { "en": "Rainscreen and ventilated cladding" } },
+    { "key": "10.15", "title": { "en": "Metal panel and composite cladding" } },
+    { "key": "10.20", "title": { "en": "Render, EIFS and external wall insulation finish" } },
+    { "key": "10.25", "title": { "en": "Brick-slip and masonry-effect facades" } },
+    { "key": "10.30", "title": { "en": "Timber, terracotta and specialty cladding" } },
+    { "key": "10.35", "title": { "en": "Structural and frameless glazing facades" } },
+    { "key": "10.40", "title": { "en": "Facade access, brackets and support systems" } },
+    { "key": "10.45", "title": { "en": "Solar shading, louvres and brise-soleil" } },
+    { "key": "10.90", "title": { "en": "Other cladding and facade work" } }
+  ]
+}

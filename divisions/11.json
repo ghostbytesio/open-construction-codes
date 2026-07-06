@@ -1,0 +1,18 @@
+{
+  "division": "11",
+  "title": { "en": "Openings, Doors & Glazing" },
+  "sections": [
+    { "key": "11.00", "title": { "en": "Openings, doors and glazing — general" } },
+    { "key": "11.05", "title": { "en": "Internal doors and door sets" } },
+    { "key": "11.10", "title": { "en": "External and entrance doors" } },
+    { "key": "11.15", "title": { "en": "Windows and window units" } },
+    { "key": "11.20", "title": { "en": "Curtain glazing, shopfronts and screens" } },
+    { "key": "11.25", "title": { "en": "Rooflights, skylights and glazed roofs" } },
+    { "key": "11.30", "title": { "en": "Overhead, roller and industrial doors" } },
+    { "key": "11.35", "title": { "en": "Fire, smoke and acoustic-rated doors" } },
+    { "key": "11.40", "title": { "en": "Door hardware and ironmongery" } },
+    { "key": "11.45", "title": { "en": "Automatic doors and access gates" } },
+    { "key": "11.50", "title": { "en": "Glass, glazing and installed mirrors" } },
+    { "key": "11.90", "title": { "en": "Other openings, doors and glazing" } }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "division": "08",
+  "title": { "en": "Timber, Carpentry & Composites" },
+  "sections": [
+    { "key": "08.00", "title": { "en": "Timber and carpentry — general" } },
+    { "key": "08.05", "title": { "en": "Structural timber framing and carpentry" } },
+    { "key": "08.10", "title": { "en": "Engineered timber — glulam and CLT" } },
+    { "key": "08.15", "title": { "en": "Roof trusses and prefabricated frames" } },
+    { "key": "08.20", "title": { "en": "First-fix carpentry and floor joists" } },
+    { "key": "08.25", "title": { "en": "Sheathing, boarding and structural panels" } },
+    { "key": "08.30", "title": { "en": "Second-fix carpentry and timber trim" } },
+    { "key": "08.35", "title": { "en": "Timber treatment and preservation" } },
+    { "key": "08.40", "title": { "en": "Composite and fibre-reinforced structural members" } },
+    { "key": "08.90", "title": { "en": "Other timber and composite work" } }
+  ]
+}

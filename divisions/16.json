@@ -1,0 +1,16 @@
+{
+  "division": "16",
+  "title": { "en": "Equipment & Appliances" },
+  "sections": [
+    { "key": "16.00", "title": { "en": "Equipment and appliances — general" } },
+    { "key": "16.05", "title": { "en": "Domestic and residential appliances" } },
+    { "key": "16.10", "title": { "en": "Commercial kitchen and catering equipment" } },
+    { "key": "16.15", "title": { "en": "Laundry and cleaning equipment" } },
+    { "key": "16.20", "title": { "en": "Retail, checkout and display equipment" } },
+    { "key": "16.25", "title": { "en": "Laboratory and healthcare equipment" } },
+    { "key": "16.30", "title": { "en": "Loading dock and material-handling equipment" } },
+    { "key": "16.35", "title": { "en": "Waste compaction and recycling equipment" } },
+    { "key": "16.40", "title": { "en": "Audio-visual and stage equipment" } },
+    { "key": "16.90", "title": { "en": "Other equipment and appliances" } }
+  ]
+}

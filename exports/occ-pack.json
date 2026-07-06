@@ -1,0 +1,3716 @@
+{
+  "scheme": "occ",
+  "version_label": "0.1.0",
+  "content_hash": "993018c44d48a37a30c589267bdbab7010495d2e973abd475aaa13254881a041",
+  "codes": [
+    {
+      "key": "01",
+      "parent_key": null,
+      "title": {
+        "en": "Preliminaries & Project General"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.00",
+      "parent_key": "01",
+      "title": {
+        "en": "Preliminaries — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.05",
+      "parent_key": "01",
+      "title": {
+        "en": "Site setup and mobilisation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.10",
+      "parent_key": "01",
+      "title": {
+        "en": "Site offices, welfare and temporary accommodation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.15",
+      "parent_key": "01",
+      "title": {
+        "en": "Hoarding, fencing and site security"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.20",
+      "parent_key": "01",
+      "title": {
+        "en": "Temporary power, water and utilities"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.25",
+      "parent_key": "01",
+      "title": {
+        "en": "Access, temporary roads and traffic management"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.30",
+      "parent_key": "01",
+      "title": {
+        "en": "Project management, supervision and site staff"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.35",
+      "parent_key": "01",
+      "title": {
+        "en": "Health, safety and environmental management"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.40",
+      "parent_key": "01",
+      "title": {
+        "en": "Survey, setting out and instrument work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.45",
+      "parent_key": "01",
+      "title": {
+        "en": "Testing, commissioning and inspection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.55",
+      "parent_key": "01",
+      "title": {
+        "en": "Handover, close-out and record documents"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "01.90",
+      "parent_key": "01",
+      "title": {
+        "en": "Other preliminaries and general items"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02",
+      "parent_key": null,
+      "title": {
+        "en": "Enabling Works & Demolition"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.00",
+      "parent_key": "02",
+      "title": {
+        "en": "Enabling works — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.05",
+      "parent_key": "02",
+      "title": {
+        "en": "Site clearance and vegetation stripping"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.10",
+      "parent_key": "02",
+      "title": {
+        "en": "Building demolition and structure takedown"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.15",
+      "parent_key": "02",
+      "title": {
+        "en": "Selective demolition and soft strip-out"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.20",
+      "parent_key": "02",
+      "title": {
+        "en": "Hazardous material removal — asbestos and lead"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.25",
+      "parent_key": "02",
+      "title": {
+        "en": "Contaminated land remediation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.30",
+      "parent_key": "02",
+      "title": {
+        "en": "Underground obstruction and old foundation removal"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.35",
+      "parent_key": "02",
+      "title": {
+        "en": "Temporary shoring, propping and facade retention"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.40",
+      "parent_key": "02",
+      "title": {
+        "en": "Site protection and tree preservation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.45",
+      "parent_key": "02",
+      "title": {
+        "en": "Salvage, deconstruction and material recovery"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "02.90",
+      "parent_key": "02",
+      "title": {
+        "en": "Other enabling and demolition work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03",
+      "parent_key": null,
+      "title": {
+        "en": "Groundworks & Earthwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.00",
+      "parent_key": "03",
+      "title": {
+        "en": "Groundworks — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.05",
+      "parent_key": "03",
+      "title": {
+        "en": "Topsoil stripping and stockpiling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.10",
+      "parent_key": "03",
+      "title": {
+        "en": "Bulk excavation and cut-to-fill"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.15",
+      "parent_key": "03",
+      "title": {
+        "en": "Trench and pit excavation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.20",
+      "parent_key": "03",
+      "title": {
+        "en": "Filling, backfill and compaction"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.25",
+      "parent_key": "03",
+      "title": {
+        "en": "Earthwork support and trench shoring"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.30",
+      "parent_key": "03",
+      "title": {
+        "en": "Ground improvement and soil stabilisation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.35",
+      "parent_key": "03",
+      "title": {
+        "en": "Dewatering and groundwater control"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.40",
+      "parent_key": "03",
+      "title": {
+        "en": "Grading, levelling and earthmoving"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.45",
+      "parent_key": "03",
+      "title": {
+        "en": "Rock excavation and blasting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.50",
+      "parent_key": "03",
+      "title": {
+        "en": "Muck-away, disposal and haulage of spoil"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "03.90",
+      "parent_key": "03",
+      "title": {
+        "en": "Other groundworks and earthwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04",
+      "parent_key": null,
+      "title": {
+        "en": "Substructure & Foundations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.00",
+      "parent_key": "04",
+      "title": {
+        "en": "Substructure — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.05",
+      "parent_key": "04",
+      "title": {
+        "en": "Strip, pad and trench-fill foundations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.10",
+      "parent_key": "04",
+      "title": {
+        "en": "Raft and mat foundations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.15",
+      "parent_key": "04",
+      "title": {
+        "en": "Driven and precast piling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.20",
+      "parent_key": "04",
+      "title": {
+        "en": "Bored and cast-in-place piling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.25",
+      "parent_key": "04",
+      "title": {
+        "en": "Pile caps and ground beams"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.30",
+      "parent_key": "04",
+      "title": {
+        "en": "Retaining walls and diaphragm walls"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.35",
+      "parent_key": "04",
+      "title": {
+        "en": "Underpinning and foundation strengthening"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.40",
+      "parent_key": "04",
+      "title": {
+        "en": "Basement construction and waterproof tanking"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.45",
+      "parent_key": "04",
+      "title": {
+        "en": "Ground-bearing slabs and floor beds"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.50",
+      "parent_key": "04",
+      "title": {
+        "en": "Ground-gas and damp-proof membranes"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "04.90",
+      "parent_key": "04",
+      "title": {
+        "en": "Other substructure and foundation work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05",
+      "parent_key": null,
+      "title": {
+        "en": "Concrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.00",
+      "parent_key": "05",
+      "title": {
+        "en": "Concrete — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.05",
+      "parent_key": "05",
+      "title": {
+        "en": "Formwork and falsework"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.10",
+      "parent_key": "05",
+      "title": {
+        "en": "Rebar / reinforcement steel"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.15",
+      "parent_key": "05",
+      "title": {
+        "en": "Cast-in-place structural concrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.20",
+      "parent_key": "05",
+      "title": {
+        "en": "Suspended slabs and concrete floors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.25",
+      "parent_key": "05",
+      "title": {
+        "en": "Precast concrete units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.30",
+      "parent_key": "05",
+      "title": {
+        "en": "Post-tensioning and prestressed concrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.35",
+      "parent_key": "05",
+      "title": {
+        "en": "Sprayed concrete and shotcrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.40",
+      "parent_key": "05",
+      "title": {
+        "en": "Concrete finishing, curing and toppings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.45",
+      "parent_key": "05",
+      "title": {
+        "en": "Grouting, repair and remedial concrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.50",
+      "parent_key": "05",
+      "title": {
+        "en": "Architectural and exposed concrete"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "05.90",
+      "parent_key": "05",
+      "title": {
+        "en": "Other concrete work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06",
+      "parent_key": null,
+      "title": {
+        "en": "Masonry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.00",
+      "parent_key": "06",
+      "title": {
+        "en": "Masonry — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.05",
+      "parent_key": "06",
+      "title": {
+        "en": "Brickwork and facing brick"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.10",
+      "parent_key": "06",
+      "title": {
+        "en": "Blockwork and concrete masonry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.15",
+      "parent_key": "06",
+      "title": {
+        "en": "Natural and cast stone masonry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.20",
+      "parent_key": "06",
+      "title": {
+        "en": "Cavity walls, ties and insulation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.25",
+      "parent_key": "06",
+      "title": {
+        "en": "Reinforced and structural masonry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.30",
+      "parent_key": "06",
+      "title": {
+        "en": "Masonry repair, repointing and restoration"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.35",
+      "parent_key": "06",
+      "title": {
+        "en": "Glass block and specialty masonry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.40",
+      "parent_key": "06",
+      "title": {
+        "en": "Damp-proof courses and cavity trays"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "06.90",
+      "parent_key": "06",
+      "title": {
+        "en": "Other masonry work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07",
+      "parent_key": null,
+      "title": {
+        "en": "Structural Steel & Metalwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.00",
+      "parent_key": "07",
+      "title": {
+        "en": "Structural steel and metalwork — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.05",
+      "parent_key": "07",
+      "title": {
+        "en": "Structural steel frame — fabrication and erection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.10",
+      "parent_key": "07",
+      "title": {
+        "en": "Metal decking and floor deck"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.15",
+      "parent_key": "07",
+      "title": {
+        "en": "Cold-formed steel framing and studwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.20",
+      "parent_key": "07",
+      "title": {
+        "en": "Stairs, ladders and walkways"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.25",
+      "parent_key": "07",
+      "title": {
+        "en": "Handrails, balustrades and guardrails"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.30",
+      "parent_key": "07",
+      "title": {
+        "en": "Architectural and ornamental metalwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.35",
+      "parent_key": "07",
+      "title": {
+        "en": "Structural bolting, welding and connections"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.40",
+      "parent_key": "07",
+      "title": {
+        "en": "Protective coatings and galvanising for steel"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.45",
+      "parent_key": "07",
+      "title": {
+        "en": "Aluminium and stainless fabrications"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "07.90",
+      "parent_key": "07",
+      "title": {
+        "en": "Other structural steel and metalwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08",
+      "parent_key": null,
+      "title": {
+        "en": "Timber, Carpentry & Composites"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.00",
+      "parent_key": "08",
+      "title": {
+        "en": "Timber and carpentry — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.05",
+      "parent_key": "08",
+      "title": {
+        "en": "Structural timber framing and carpentry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.10",
+      "parent_key": "08",
+      "title": {
+        "en": "Engineered timber — glulam and CLT"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.15",
+      "parent_key": "08",
+      "title": {
+        "en": "Roof trusses and prefabricated frames"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.20",
+      "parent_key": "08",
+      "title": {
+        "en": "First-fix carpentry and floor joists"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.25",
+      "parent_key": "08",
+      "title": {
+        "en": "Sheathing, boarding and structural panels"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.30",
+      "parent_key": "08",
+      "title": {
+        "en": "Second-fix carpentry and timber trim"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.35",
+      "parent_key": "08",
+      "title": {
+        "en": "Timber treatment and preservation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.40",
+      "parent_key": "08",
+      "title": {
+        "en": "Composite and fibre-reinforced structural members"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "08.90",
+      "parent_key": "08",
+      "title": {
+        "en": "Other timber and composite work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09",
+      "parent_key": null,
+      "title": {
+        "en": "Roofing & Waterproofing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.00",
+      "parent_key": "09",
+      "title": {
+        "en": "Roofing and waterproofing — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.05",
+      "parent_key": "09",
+      "title": {
+        "en": "Pitched roof tiling and slating"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.10",
+      "parent_key": "09",
+      "title": {
+        "en": "Metal roofing and standing-seam systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.15",
+      "parent_key": "09",
+      "title": {
+        "en": "Flat roof membranes — single-ply and built-up"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.20",
+      "parent_key": "09",
+      "title": {
+        "en": "Liquid-applied and hot-melt waterproofing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.25",
+      "parent_key": "09",
+      "title": {
+        "en": "Green roofs and roof gardens"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.30",
+      "parent_key": "09",
+      "title": {
+        "en": "Roof drainage, gutters and rainwater goods"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.35",
+      "parent_key": "09",
+      "title": {
+        "en": "Flashings, copings and roof trims"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.40",
+      "parent_key": "09",
+      "title": {
+        "en": "Rooflights, skylights and roof access"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.45",
+      "parent_key": "09",
+      "title": {
+        "en": "Below-grade and tanking waterproofing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "09.90",
+      "parent_key": "09",
+      "title": {
+        "en": "Other roofing and waterproofing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10",
+      "parent_key": null,
+      "title": {
+        "en": "Cladding & Façades"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.00",
+      "parent_key": "10",
+      "title": {
+        "en": "Cladding and façades — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.05",
+      "parent_key": "10",
+      "title": {
+        "en": "Curtain wall systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.10",
+      "parent_key": "10",
+      "title": {
+        "en": "Rainscreen and ventilated cladding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.15",
+      "parent_key": "10",
+      "title": {
+        "en": "Metal panel and composite cladding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.20",
+      "parent_key": "10",
+      "title": {
+        "en": "Render, EIFS and external wall insulation finish"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.25",
+      "parent_key": "10",
+      "title": {
+        "en": "Brick-slip and masonry-effect facades"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.30",
+      "parent_key": "10",
+      "title": {
+        "en": "Timber, terracotta and specialty cladding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.35",
+      "parent_key": "10",
+      "title": {
+        "en": "Structural and frameless glazing facades"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.40",
+      "parent_key": "10",
+      "title": {
+        "en": "Facade access, brackets and support systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.45",
+      "parent_key": "10",
+      "title": {
+        "en": "Solar shading, louvres and brise-soleil"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "10.90",
+      "parent_key": "10",
+      "title": {
+        "en": "Other cladding and facade work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11",
+      "parent_key": null,
+      "title": {
+        "en": "Openings, Doors & Glazing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.00",
+      "parent_key": "11",
+      "title": {
+        "en": "Openings, doors and glazing — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.05",
+      "parent_key": "11",
+      "title": {
+        "en": "Internal doors and door sets"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.10",
+      "parent_key": "11",
+      "title": {
+        "en": "External and entrance doors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.15",
+      "parent_key": "11",
+      "title": {
+        "en": "Windows and window units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.20",
+      "parent_key": "11",
+      "title": {
+        "en": "Curtain glazing, shopfronts and screens"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.25",
+      "parent_key": "11",
+      "title": {
+        "en": "Rooflights, skylights and glazed roofs"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.30",
+      "parent_key": "11",
+      "title": {
+        "en": "Overhead, roller and industrial doors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.35",
+      "parent_key": "11",
+      "title": {
+        "en": "Fire, smoke and acoustic-rated doors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.40",
+      "parent_key": "11",
+      "title": {
+        "en": "Door hardware and ironmongery"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.45",
+      "parent_key": "11",
+      "title": {
+        "en": "Automatic doors and access gates"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.50",
+      "parent_key": "11",
+      "title": {
+        "en": "Glass, glazing and installed mirrors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "11.90",
+      "parent_key": "11",
+      "title": {
+        "en": "Other openings, doors and glazing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12",
+      "parent_key": null,
+      "title": {
+        "en": "Insulation & Thermal-Moisture Protection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.00",
+      "parent_key": "12",
+      "title": {
+        "en": "Insulation and moisture protection — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.05",
+      "parent_key": "12",
+      "title": {
+        "en": "Thermal insulation to walls, floors and roofs"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.10",
+      "parent_key": "12",
+      "title": {
+        "en": "Acoustic and sound insulation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.15",
+      "parent_key": "12",
+      "title": {
+        "en": "Spray foam and injected insulation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.20",
+      "parent_key": "12",
+      "title": {
+        "en": "Air and vapour barriers and breather membranes"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.25",
+      "parent_key": "12",
+      "title": {
+        "en": "Damp-proofing and moisture control"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.30",
+      "parent_key": "12",
+      "title": {
+        "en": "Firestopping and penetration sealing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.35",
+      "parent_key": "12",
+      "title": {
+        "en": "Passive fire protection and intumescent coatings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.40",
+      "parent_key": "12",
+      "title": {
+        "en": "Joint sealants, mastics and weatherproofing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "12.90",
+      "parent_key": "12",
+      "title": {
+        "en": "Other insulation and moisture protection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13",
+      "parent_key": null,
+      "title": {
+        "en": "Interior Finishes"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.00",
+      "parent_key": "13",
+      "title": {
+        "en": "Interior finishes — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.05",
+      "parent_key": "13",
+      "title": {
+        "en": "Drywall / plasterboard partitions and linings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.10",
+      "parent_key": "13",
+      "title": {
+        "en": "Plastering and rendering internally"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.15",
+      "parent_key": "13",
+      "title": {
+        "en": "Suspended and feature ceilings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.20",
+      "parent_key": "13",
+      "title": {
+        "en": "Raised access flooring"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.25",
+      "parent_key": "13",
+      "title": {
+        "en": "Screeds and floor levelling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.30",
+      "parent_key": "13",
+      "title": {
+        "en": "Tiling to floors and walls"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.35",
+      "parent_key": "13",
+      "title": {
+        "en": "Resilient, vinyl and carpet flooring"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.40",
+      "parent_key": "13",
+      "title": {
+        "en": "Timber, laminate and resin flooring"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.45",
+      "parent_key": "13",
+      "title": {
+        "en": "Painting and decorating"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.50",
+      "parent_key": "13",
+      "title": {
+        "en": "Wall coverings and decorative panelling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "13.90",
+      "parent_key": "13",
+      "title": {
+        "en": "Other interior finishes"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14",
+      "parent_key": null,
+      "title": {
+        "en": "Joinery, Casework & Furnishings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.00",
+      "parent_key": "14",
+      "title": {
+        "en": "Joinery and furnishings — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.05",
+      "parent_key": "14",
+      "title": {
+        "en": "Architectural joinery and bespoke millwork"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.10",
+      "parent_key": "14",
+      "title": {
+        "en": "Fitted casework and cabinetry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.15",
+      "parent_key": "14",
+      "title": {
+        "en": "Kitchens and worktops"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.20",
+      "parent_key": "14",
+      "title": {
+        "en": "Skirting / baseboard, trim and mouldings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.25",
+      "parent_key": "14",
+      "title": {
+        "en": "Countertops and solid-surface fabrications"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.30",
+      "parent_key": "14",
+      "title": {
+        "en": "Loose and fitted furniture (FF&E)"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.35",
+      "parent_key": "14",
+      "title": {
+        "en": "Window treatments, blinds and curtains"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.40",
+      "parent_key": "14",
+      "title": {
+        "en": "Signage and wayfinding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "14.90",
+      "parent_key": "14",
+      "title": {
+        "en": "Other joinery and furnishings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15",
+      "parent_key": null,
+      "title": {
+        "en": "Specialties & Fittings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.00",
+      "parent_key": "15",
+      "title": {
+        "en": "Specialties and fittings — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.05",
+      "parent_key": "15",
+      "title": {
+        "en": "Toilet partitions and cubicles"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.10",
+      "parent_key": "15",
+      "title": {
+        "en": "Washroom accessories and fittings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.15",
+      "parent_key": "15",
+      "title": {
+        "en": "Lockers, shelving and storage units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.20",
+      "parent_key": "15",
+      "title": {
+        "en": "Demountable and operable partitions"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.25",
+      "parent_key": "15",
+      "title": {
+        "en": "Fire extinguishers, cabinets and safety fittings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.30",
+      "parent_key": "15",
+      "title": {
+        "en": "Entrance mats, protection and wall guards"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.35",
+      "parent_key": "15",
+      "title": {
+        "en": "Display cases, notice boards and fixtures"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "15.90",
+      "parent_key": "15",
+      "title": {
+        "en": "Other specialties and fittings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16",
+      "parent_key": null,
+      "title": {
+        "en": "Equipment & Appliances"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.00",
+      "parent_key": "16",
+      "title": {
+        "en": "Equipment and appliances — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.05",
+      "parent_key": "16",
+      "title": {
+        "en": "Domestic and residential appliances"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.10",
+      "parent_key": "16",
+      "title": {
+        "en": "Commercial kitchen and catering equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.15",
+      "parent_key": "16",
+      "title": {
+        "en": "Laundry and cleaning equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.20",
+      "parent_key": "16",
+      "title": {
+        "en": "Retail, checkout and display equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.25",
+      "parent_key": "16",
+      "title": {
+        "en": "Laboratory and healthcare equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.30",
+      "parent_key": "16",
+      "title": {
+        "en": "Loading dock and material-handling equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.35",
+      "parent_key": "16",
+      "title": {
+        "en": "Waste compaction and recycling equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.40",
+      "parent_key": "16",
+      "title": {
+        "en": "Audio-visual and stage equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "16.90",
+      "parent_key": "16",
+      "title": {
+        "en": "Other equipment and appliances"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17",
+      "parent_key": null,
+      "title": {
+        "en": "Special Construction & Prefabrication"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.00",
+      "parent_key": "17",
+      "title": {
+        "en": "Special construction and prefabrication — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.05",
+      "parent_key": "17",
+      "title": {
+        "en": "Modular and volumetric building units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.10",
+      "parent_key": "17",
+      "title": {
+        "en": "Prefabricated bathroom and service pods"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.15",
+      "parent_key": "17",
+      "title": {
+        "en": "Pre-engineered metal buildings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.20",
+      "parent_key": "17",
+      "title": {
+        "en": "Fabric, tensile and air-supported structures"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.25",
+      "parent_key": "17",
+      "title": {
+        "en": "Cold rooms, cleanrooms and controlled environments"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.30",
+      "parent_key": "17",
+      "title": {
+        "en": "Swimming pools, spas and water features"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.35",
+      "parent_key": "17",
+      "title": {
+        "en": "Radiation, acoustic and specialty shielding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.40",
+      "parent_key": "17",
+      "title": {
+        "en": "Vaults, safes and secure rooms"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "17.90",
+      "parent_key": "17",
+      "title": {
+        "en": "Other special construction"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18",
+      "parent_key": null,
+      "title": {
+        "en": "Vertical Transport & Conveying"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.00",
+      "parent_key": "18",
+      "title": {
+        "en": "Vertical transport and conveying — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.05",
+      "parent_key": "18",
+      "title": {
+        "en": "Passenger and goods lifts / elevators"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.10",
+      "parent_key": "18",
+      "title": {
+        "en": "Escalators and moving walkways"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.15",
+      "parent_key": "18",
+      "title": {
+        "en": "Platform lifts and accessibility hoists"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.20",
+      "parent_key": "18",
+      "title": {
+        "en": "Dumbwaiters and service lifts"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.25",
+      "parent_key": "18",
+      "title": {
+        "en": "Cranes, hoists and building maintenance units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.30",
+      "parent_key": "18",
+      "title": {
+        "en": "Conveyors and pneumatic tube systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.35",
+      "parent_key": "18",
+      "title": {
+        "en": "Lift modernisation and refurbishment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "18.90",
+      "parent_key": "18",
+      "title": {
+        "en": "Other vertical transport and conveying"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19",
+      "parent_key": null,
+      "title": {
+        "en": "Fire Suppression & Protection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.00",
+      "parent_key": "19",
+      "title": {
+        "en": "Fire suppression — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.05",
+      "parent_key": "19",
+      "title": {
+        "en": "Sprinkler systems — wet and dry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.10",
+      "parent_key": "19",
+      "title": {
+        "en": "Fire pumps and water storage for firefighting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.15",
+      "parent_key": "19",
+      "title": {
+        "en": "Standpipes, hydrants and hose reels"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.20",
+      "parent_key": "19",
+      "title": {
+        "en": "Gaseous and clean-agent suppression"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.25",
+      "parent_key": "19",
+      "title": {
+        "en": "Foam, watermist and specialty suppression"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.30",
+      "parent_key": "19",
+      "title": {
+        "en": "Kitchen hood and cooking fire suppression"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "19.90",
+      "parent_key": "19",
+      "title": {
+        "en": "Other fire suppression and protection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20",
+      "parent_key": null,
+      "title": {
+        "en": "Plumbing & Drainage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.00",
+      "parent_key": "20",
+      "title": {
+        "en": "Plumbing and drainage — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.05",
+      "parent_key": "20",
+      "title": {
+        "en": "Domestic hot and cold water services"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.10",
+      "parent_key": "20",
+      "title": {
+        "en": "Sanitaryware and fixtures / fittings"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.15",
+      "parent_key": "20",
+      "title": {
+        "en": "Soil, waste and above-ground drainage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.20",
+      "parent_key": "20",
+      "title": {
+        "en": "Below-ground foul and surface-water drainage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.25",
+      "parent_key": "20",
+      "title": {
+        "en": "Rainwater harvesting and greywater reuse"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.30",
+      "parent_key": "20",
+      "title": {
+        "en": "Gas installation and pipework"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.35",
+      "parent_key": "20",
+      "title": {
+        "en": "Hot water generation and storage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.40",
+      "parent_key": "20",
+      "title": {
+        "en": "Pumps, boosting and pressurisation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.45",
+      "parent_key": "20",
+      "title": {
+        "en": "Insulation and lagging to pipework"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "20.90",
+      "parent_key": "20",
+      "title": {
+        "en": "Other plumbing and drainage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21",
+      "parent_key": null,
+      "title": {
+        "en": "HVAC & Mechanical"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.00",
+      "parent_key": "21",
+      "title": {
+        "en": "HVAC and mechanical — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.05",
+      "parent_key": "21",
+      "title": {
+        "en": "Ductwork and air distribution"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.10",
+      "parent_key": "21",
+      "title": {
+        "en": "Air handling units and ventilation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.15",
+      "parent_key": "21",
+      "title": {
+        "en": "Chillers and cooling plant"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.20",
+      "parent_key": "21",
+      "title": {
+        "en": "Boilers and heating plant"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.25",
+      "parent_key": "21",
+      "title": {
+        "en": "Heat pumps and heat recovery"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.30",
+      "parent_key": "21",
+      "title": {
+        "en": "Hydronic piping, pumps and heat distribution"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.35",
+      "parent_key": "21",
+      "title": {
+        "en": "Terminal units, radiators and emitters"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.40",
+      "parent_key": "21",
+      "title": {
+        "en": "Refrigeration and split / VRF systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.45",
+      "parent_key": "21",
+      "title": {
+        "en": "Smoke control and specialist ventilation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.50",
+      "parent_key": "21",
+      "title": {
+        "en": "Thermal insulation and lagging to services"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "21.90",
+      "parent_key": "21",
+      "title": {
+        "en": "Other HVAC and mechanical work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22",
+      "parent_key": null,
+      "title": {
+        "en": "Building Automation & Controls"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.00",
+      "parent_key": "22",
+      "title": {
+        "en": "Building automation and controls — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.05",
+      "parent_key": "22",
+      "title": {
+        "en": "Building management system (BMS) and head-end"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.10",
+      "parent_key": "22",
+      "title": {
+        "en": "HVAC controls and field devices"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.15",
+      "parent_key": "22",
+      "title": {
+        "en": "Sensors, meters and instrumentation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.20",
+      "parent_key": "22",
+      "title": {
+        "en": "Lighting control and management systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.25",
+      "parent_key": "22",
+      "title": {
+        "en": "Energy monitoring and metering"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.30",
+      "parent_key": "22",
+      "title": {
+        "en": "Controls integration and network gateways"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.35",
+      "parent_key": "22",
+      "title": {
+        "en": "Controls commissioning and tuning"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "22.90",
+      "parent_key": "22",
+      "title": {
+        "en": "Other automation and controls work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23",
+      "parent_key": null,
+      "title": {
+        "en": "Electrical"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.00",
+      "parent_key": "23",
+      "title": {
+        "en": "Electrical — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.05",
+      "parent_key": "23",
+      "title": {
+        "en": "Incoming supply, switchgear and distribution boards"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.10",
+      "parent_key": "23",
+      "title": {
+        "en": "Containment — cable tray, trunking and conduit"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.15",
+      "parent_key": "23",
+      "title": {
+        "en": "Power wiring, small power and final circuits"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.20",
+      "parent_key": "23",
+      "title": {
+        "en": "Interior lighting and luminaires"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.25",
+      "parent_key": "23",
+      "title": {
+        "en": "Exterior, site and street lighting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.30",
+      "parent_key": "23",
+      "title": {
+        "en": "Emergency and standby lighting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.35",
+      "parent_key": "23",
+      "title": {
+        "en": "Earthing, bonding and lightning protection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.40",
+      "parent_key": "23",
+      "title": {
+        "en": "Standby generation and UPS"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.45",
+      "parent_key": "23",
+      "title": {
+        "en": "Medium and high-voltage installations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.50",
+      "parent_key": "23",
+      "title": {
+        "en": "Testing, inspection and electrical commissioning"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "23.90",
+      "parent_key": "23",
+      "title": {
+        "en": "Other electrical work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24",
+      "parent_key": null,
+      "title": {
+        "en": "Communications & Data"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.00",
+      "parent_key": "24",
+      "title": {
+        "en": "Communications and data — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.05",
+      "parent_key": "24",
+      "title": {
+        "en": "Structured cabling and containment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.10",
+      "parent_key": "24",
+      "title": {
+        "en": "Data centre and equipment rooms"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.15",
+      "parent_key": "24",
+      "title": {
+        "en": "Network active equipment and switching"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.20",
+      "parent_key": "24",
+      "title": {
+        "en": "Fibre-optic backbone and splicing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.25",
+      "parent_key": "24",
+      "title": {
+        "en": "Wireless, distributed antenna and mobile coverage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.30",
+      "parent_key": "24",
+      "title": {
+        "en": "Telephone, intercom and paging systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.35",
+      "parent_key": "24",
+      "title": {
+        "en": "Audio-visual and conferencing systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "24.90",
+      "parent_key": "24",
+      "title": {
+        "en": "Other communications and data work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25",
+      "parent_key": null,
+      "title": {
+        "en": "Safety & Security Systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.00",
+      "parent_key": "25",
+      "title": {
+        "en": "Safety and security systems — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.05",
+      "parent_key": "25",
+      "title": {
+        "en": "Fire detection and alarm"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.10",
+      "parent_key": "25",
+      "title": {
+        "en": "Voice alarm and emergency communications"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.15",
+      "parent_key": "25",
+      "title": {
+        "en": "Intruder detection and alarm"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.20",
+      "parent_key": "25",
+      "title": {
+        "en": "Access control and door entry"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.25",
+      "parent_key": "25",
+      "title": {
+        "en": "CCTV and video surveillance"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.30",
+      "parent_key": "25",
+      "title": {
+        "en": "Perimeter security and detection"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.35",
+      "parent_key": "25",
+      "title": {
+        "en": "Nurse call and assistance systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.40",
+      "parent_key": "25",
+      "title": {
+        "en": "Security integration and control rooms"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "25.90",
+      "parent_key": "25",
+      "title": {
+        "en": "Other safety and security systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26",
+      "parent_key": null,
+      "title": {
+        "en": "External Works & Landscaping"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.00",
+      "parent_key": "26",
+      "title": {
+        "en": "External works and landscaping — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.05",
+      "parent_key": "26",
+      "title": {
+        "en": "Hard landscaping and paving to grounds"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.10",
+      "parent_key": "26",
+      "title": {
+        "en": "Kerbs / curbs, edgings and channels"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.15",
+      "parent_key": "26",
+      "title": {
+        "en": "Soft landscaping, planting and turfing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.20",
+      "parent_key": "26",
+      "title": {
+        "en": "Topsoiling, seeding and ground preparation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.25",
+      "parent_key": "26",
+      "title": {
+        "en": "Fencing, gates and boundary walls"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.30",
+      "parent_key": "26",
+      "title": {
+        "en": "Street furniture and site amenities"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.35",
+      "parent_key": "26",
+      "title": {
+        "en": "Irrigation and landscape water systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.40",
+      "parent_key": "26",
+      "title": {
+        "en": "Play areas, sports surfaces and recreation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.45",
+      "parent_key": "26",
+      "title": {
+        "en": "Retaining structures and earth-retention landscape"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "26.90",
+      "parent_key": "26",
+      "title": {
+        "en": "Other external works and landscaping"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27",
+      "parent_key": null,
+      "title": {
+        "en": "Utilities & Infrastructure"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.00",
+      "parent_key": "27",
+      "title": {
+        "en": "Utilities and infrastructure — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.05",
+      "parent_key": "27",
+      "title": {
+        "en": "Potable water mains and distribution"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.10",
+      "parent_key": "27",
+      "title": {
+        "en": "Foul and sanitary sewer mains"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.15",
+      "parent_key": "27",
+      "title": {
+        "en": "Storm sewers and surface-water networks"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.20",
+      "parent_key": "27",
+      "title": {
+        "en": "Gas mains and distribution networks"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.25",
+      "parent_key": "27",
+      "title": {
+        "en": "District heating and cooling networks"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.30",
+      "parent_key": "27",
+      "title": {
+        "en": "Electrical distribution and substations (utility)"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.35",
+      "parent_key": "27",
+      "title": {
+        "en": "Telecoms and fibre ducting networks"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.40",
+      "parent_key": "27",
+      "title": {
+        "en": "Pumping stations and lift stations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.45",
+      "parent_key": "27",
+      "title": {
+        "en": "Trenchless works — directional drilling and microtunnelling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.50",
+      "parent_key": "27",
+      "title": {
+        "en": "Manholes, chambers and utility structures"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "27.90",
+      "parent_key": "27",
+      "title": {
+        "en": "Other utilities and infrastructure"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28",
+      "parent_key": null,
+      "title": {
+        "en": "Paving, Roads & Rail"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.00",
+      "parent_key": "28",
+      "title": {
+        "en": "Paving, roads and rail — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.05",
+      "parent_key": "28",
+      "title": {
+        "en": "Subgrade preparation and capping"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.10",
+      "parent_key": "28",
+      "title": {
+        "en": "Sub-base and road foundation layers"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.15",
+      "parent_key": "28",
+      "title": {
+        "en": "Asphalt / bituminous surfacing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.20",
+      "parent_key": "28",
+      "title": {
+        "en": "Concrete pavements and hardstanding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.25",
+      "parent_key": "28",
+      "title": {
+        "en": "Block paving and modular surfacing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.30",
+      "parent_key": "28",
+      "title": {
+        "en": "Road markings, studs and signage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.35",
+      "parent_key": "28",
+      "title": {
+        "en": "Safety barriers, crash barriers and fencing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.40",
+      "parent_key": "28",
+      "title": {
+        "en": "Kerbing, channels and highway drainage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.45",
+      "parent_key": "28",
+      "title": {
+        "en": "Rail trackwork, sleepers and ballast"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.50",
+      "parent_key": "28",
+      "title": {
+        "en": "Airfield pavements and runway works"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "28.90",
+      "parent_key": "28",
+      "title": {
+        "en": "Other paving, roads and rail work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29",
+      "parent_key": null,
+      "title": {
+        "en": "Marine, Waterways & Geotechnical"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.00",
+      "parent_key": "29",
+      "title": {
+        "en": "Marine, waterways and geotechnical — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.05",
+      "parent_key": "29",
+      "title": {
+        "en": "Sheet piling and cofferdams"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.10",
+      "parent_key": "29",
+      "title": {
+        "en": "Marine piling and foundations"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.15",
+      "parent_key": "29",
+      "title": {
+        "en": "Quays, jetties, docks and pontoons"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.20",
+      "parent_key": "29",
+      "title": {
+        "en": "Dredging and land reclamation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.25",
+      "parent_key": "29",
+      "title": {
+        "en": "Bank protection, revetments and sea defence"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.30",
+      "parent_key": "29",
+      "title": {
+        "en": "Ground anchors, soil nailing and rock bolting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.35",
+      "parent_key": "29",
+      "title": {
+        "en": "Grouting, jet grouting and ground treatment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.40",
+      "parent_key": "29",
+      "title": {
+        "en": "Culverts, weirs and watercourse works"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.45",
+      "parent_key": "29",
+      "title": {
+        "en": "Tunnelling and shaft sinking"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "29.90",
+      "parent_key": "29",
+      "title": {
+        "en": "Other marine and geotechnical work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30",
+      "parent_key": null,
+      "title": {
+        "en": "Process & Industrial Equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.00",
+      "parent_key": "30",
+      "title": {
+        "en": "Process and industrial equipment — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.05",
+      "parent_key": "30",
+      "title": {
+        "en": "Tanks, silos and storage vessels"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.10",
+      "parent_key": "30",
+      "title": {
+        "en": "Process piping and pipework systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.15",
+      "parent_key": "30",
+      "title": {
+        "en": "Pumps, compressors and rotating equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.20",
+      "parent_key": "30",
+      "title": {
+        "en": "Conveyors and bulk material handling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.25",
+      "parent_key": "30",
+      "title": {
+        "en": "Boilers, furnaces and process heating"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.30",
+      "parent_key": "30",
+      "title": {
+        "en": "Heat exchangers and process cooling"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.35",
+      "parent_key": "30",
+      "title": {
+        "en": "Process instrumentation and control valves"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.40",
+      "parent_key": "30",
+      "title": {
+        "en": "Packaged plant and skid-mounted units"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.45",
+      "parent_key": "30",
+      "title": {
+        "en": "Equipment installation, alignment and setting"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "30.90",
+      "parent_key": "30",
+      "title": {
+        "en": "Other process and industrial equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31",
+      "parent_key": null,
+      "title": {
+        "en": "Pollution Control & Waste"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.00",
+      "parent_key": "31",
+      "title": {
+        "en": "Pollution control and waste — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.05",
+      "parent_key": "31",
+      "title": {
+        "en": "Water treatment plant and equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.10",
+      "parent_key": "31",
+      "title": {
+        "en": "Wastewater and sewage treatment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.15",
+      "parent_key": "31",
+      "title": {
+        "en": "Air pollution control and scrubbers"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.20",
+      "parent_key": "31",
+      "title": {
+        "en": "Solid waste handling and transfer"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.25",
+      "parent_key": "31",
+      "title": {
+        "en": "Landfill engineering and containment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.30",
+      "parent_key": "31",
+      "title": {
+        "en": "Odour, dust and emissions control"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.35",
+      "parent_key": "31",
+      "title": {
+        "en": "Spill containment and bunding"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "31.90",
+      "parent_key": "31",
+      "title": {
+        "en": "Other pollution control and waste work"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32",
+      "parent_key": null,
+      "title": {
+        "en": "Energy Generation & Storage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.00",
+      "parent_key": "32",
+      "title": {
+        "en": "Energy generation and storage — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.05",
+      "parent_key": "32",
+      "title": {
+        "en": "Solar photovoltaic systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.10",
+      "parent_key": "32",
+      "title": {
+        "en": "Solar thermal and collectors"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.15",
+      "parent_key": "32",
+      "title": {
+        "en": "Wind turbine installation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.20",
+      "parent_key": "32",
+      "title": {
+        "en": "Combined heat and power (CHP) plant"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.25",
+      "parent_key": "32",
+      "title": {
+        "en": "Battery energy storage systems"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.30",
+      "parent_key": "32",
+      "title": {
+        "en": "Geothermal and ground-source energy"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.35",
+      "parent_key": "32",
+      "title": {
+        "en": "Grid connection and export infrastructure"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.40",
+      "parent_key": "32",
+      "title": {
+        "en": "EV charging infrastructure"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "32.90",
+      "parent_key": "32",
+      "title": {
+        "en": "Other energy generation and storage"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33",
+      "parent_key": null,
+      "title": {
+        "en": "Plant, Equipment & Site Logistics"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.00",
+      "parent_key": "33",
+      "title": {
+        "en": "Plant, equipment and site logistics — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.05",
+      "parent_key": "33",
+      "title": {
+        "en": "Tower and mobile crane hire and operation"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.10",
+      "parent_key": "33",
+      "title": {
+        "en": "Excavators, earthmoving and heavy plant hire"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.15",
+      "parent_key": "33",
+      "title": {
+        "en": "Access equipment, scaffolding and hoists"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.20",
+      "parent_key": "33",
+      "title": {
+        "en": "Small plant, tools and consumables"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.25",
+      "parent_key": "33",
+      "title": {
+        "en": "Temporary works design and equipment"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.30",
+      "parent_key": "33",
+      "title": {
+        "en": "Material logistics, deliveries and lay-down"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.35",
+      "parent_key": "33",
+      "title": {
+        "en": "Fuel, plant maintenance and servicing"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "33.90",
+      "parent_key": "33",
+      "title": {
+        "en": "Other plant, equipment and logistics"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34",
+      "parent_key": null,
+      "title": {
+        "en": "Professional Services & Fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.00",
+      "parent_key": "34",
+      "title": {
+        "en": "Professional services and fees — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.05",
+      "parent_key": "34",
+      "title": {
+        "en": "Architectural and design fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.10",
+      "parent_key": "34",
+      "title": {
+        "en": "Engineering and consultancy fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.15",
+      "parent_key": "34",
+      "title": {
+        "en": "Cost consultancy and quantity surveying fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.20",
+      "parent_key": "34",
+      "title": {
+        "en": "Surveys, site investigation and testing fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.25",
+      "parent_key": "34",
+      "title": {
+        "en": "Project and construction management fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.30",
+      "parent_key": "34",
+      "title": {
+        "en": "Legal, planning and statutory consultancy"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.35",
+      "parent_key": "34",
+      "title": {
+        "en": "Commissioning, handover and certification fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "34.90",
+      "parent_key": "34",
+      "title": {
+        "en": "Other professional services and fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35",
+      "parent_key": null,
+      "title": {
+        "en": "Permits, Insurance & Bonds"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.00",
+      "parent_key": "35",
+      "title": {
+        "en": "Permits, insurance and bonds — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.05",
+      "parent_key": "35",
+      "title": {
+        "en": "Planning, building control and permit fees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.10",
+      "parent_key": "35",
+      "title": {
+        "en": "Utility connection and authority charges"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.15",
+      "parent_key": "35",
+      "title": {
+        "en": "Construction and project insurance"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.20",
+      "parent_key": "35",
+      "title": {
+        "en": "Performance bonds and guarantees"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.25",
+      "parent_key": "35",
+      "title": {
+        "en": "Warranties and latent-defect cover"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.30",
+      "parent_key": "35",
+      "title": {
+        "en": "Licences, wayleaves and easements"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "35.90",
+      "parent_key": "35",
+      "title": {
+        "en": "Other permits, insurance and bonds"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36",
+      "parent_key": null,
+      "title": {
+        "en": "Contingency & Allowances"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.00",
+      "parent_key": "36",
+      "title": {
+        "en": "Contingency and allowances — general"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.05",
+      "parent_key": "36",
+      "title": {
+        "en": "Design and development contingency"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.10",
+      "parent_key": "36",
+      "title": {
+        "en": "Construction and risk contingency"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.15",
+      "parent_key": "36",
+      "title": {
+        "en": "Provisional sums"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.20",
+      "parent_key": "36",
+      "title": {
+        "en": "Prime cost and supply allowances"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.25",
+      "parent_key": "36",
+      "title": {
+        "en": "Dayworks and undefined works allowance"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.30",
+      "parent_key": "36",
+      "title": {
+        "en": "Inflation and price-escalation allowance"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.35",
+      "parent_key": "36",
+      "title": {
+        "en": "Client-held reserve and management contingency"
+      },
+      "deprecated": false,
+      "successor": null
+    },
+    {
+      "key": "36.90",
+      "parent_key": "36",
+      "title": {
+        "en": "Other contingency and allowances"
+      },
+      "deprecated": false,
+      "successor": null
+    }
+  ],
+  "crosswalk_to_occ": null
+}

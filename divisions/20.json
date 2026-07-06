@@ -1,0 +1,17 @@
+{
+  "division": "20",
+  "title": { "en": "Plumbing & Drainage" },
+  "sections": [
+    { "key": "20.00", "title": { "en": "Plumbing and drainage — general" } },
+    { "key": "20.05", "title": { "en": "Domestic hot and cold water services" } },
+    { "key": "20.10", "title": { "en": "Sanitaryware and fixtures / fittings" } },
+    { "key": "20.15", "title": { "en": "Soil, waste and above-ground drainage" } },
+    { "key": "20.20", "title": { "en": "Below-ground foul and surface-water drainage" } },
+    { "key": "20.25", "title": { "en": "Rainwater harvesting and greywater reuse" } },
+    { "key": "20.30", "title": { "en": "Gas installation and pipework" } },
+    { "key": "20.35", "title": { "en": "Hot water generation and storage" } },
+    { "key": "20.40", "title": { "en": "Pumps, boosting and pressurisation" } },
+    { "key": "20.45", "title": { "en": "Insulation and lagging to pipework" } },
+    { "key": "20.90", "title": { "en": "Other plumbing and drainage" } }
+  ]
+}

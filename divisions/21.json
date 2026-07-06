@@ -1,0 +1,18 @@
+{
+  "division": "21",
+  "title": { "en": "HVAC & Mechanical" },
+  "sections": [
+    { "key": "21.00", "title": { "en": "HVAC and mechanical — general" } },
+    { "key": "21.05", "title": { "en": "Ductwork and air distribution" } },
+    { "key": "21.10", "title": { "en": "Air handling units and ventilation" } },
+    { "key": "21.15", "title": { "en": "Chillers and cooling plant" } },
+    { "key": "21.20", "title": { "en": "Boilers and heating plant" } },
+    { "key": "21.25", "title": { "en": "Heat pumps and heat recovery" } },
+    { "key": "21.30", "title": { "en": "Hydronic piping, pumps and heat distribution" } },
+    { "key": "21.35", "title": { "en": "Terminal units, radiators and emitters" } },
+    { "key": "21.40", "title": { "en": "Refrigeration and split / VRF systems" } },
+    { "key": "21.45", "title": { "en": "Smoke control and specialist ventilation" } },
+    { "key": "21.50", "title": { "en": "Thermal insulation and lagging to services" } },
+    { "key": "21.90", "title": { "en": "Other HVAC and mechanical work" } }
+  ]
+}

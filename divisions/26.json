@@ -1,0 +1,17 @@
+{
+  "division": "26",
+  "title": { "en": "External Works & Landscaping" },
+  "sections": [
+    { "key": "26.00", "title": { "en": "External works and landscaping — general" } },
+    { "key": "26.05", "title": { "en": "Hard landscaping and paving to grounds" } },
+    { "key": "26.10", "title": { "en": "Kerbs / curbs, edgings and channels" } },
+    { "key": "26.15", "title": { "en": "Soft landscaping, planting and turfing" } },
+    { "key": "26.20", "title": { "en": "Topsoiling, seeding and ground preparation" } },
+    { "key": "26.25", "title": { "en": "Fencing, gates and boundary walls" } },
+    { "key": "26.30", "title": { "en": "Street furniture and site amenities" } },
+    { "key": "26.35", "title": { "en": "Irrigation and landscape water systems" } },
+    { "key": "26.40", "title": { "en": "Play areas, sports surfaces and recreation" } },
+    { "key": "26.45", "title": { "en": "Retaining structures and earth-retention landscape" } },
+    { "key": "26.90", "title": { "en": "Other external works and landscaping" } }
+  ]
+}

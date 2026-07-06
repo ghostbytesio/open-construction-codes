@@ -1,0 +1,15 @@
+{
+  "division": "18",
+  "title": { "en": "Vertical Transport & Conveying" },
+  "sections": [
+    { "key": "18.00", "title": { "en": "Vertical transport and conveying — general" } },
+    { "key": "18.05", "title": { "en": "Passenger and goods lifts / elevators" } },
+    { "key": "18.10", "title": { "en": "Escalators and moving walkways" } },
+    { "key": "18.15", "title": { "en": "Platform lifts and accessibility hoists" } },
+    { "key": "18.20", "title": { "en": "Dumbwaiters and service lifts" } },
+    { "key": "18.25", "title": { "en": "Cranes, hoists and building maintenance units" } },
+    { "key": "18.30", "title": { "en": "Conveyors and pneumatic tube systems" } },
+    { "key": "18.35", "title": { "en": "Lift modernisation and refurbishment" } },
+    { "key": "18.90", "title": { "en": "Other vertical transport and conveying" } }
+  ]
+}

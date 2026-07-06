@@ -1,0 +1,15 @@
+{
+  "division": "15",
+  "title": { "en": "Specialties & Fittings" },
+  "sections": [
+    { "key": "15.00", "title": { "en": "Specialties and fittings — general" } },
+    { "key": "15.05", "title": { "en": "Toilet partitions and cubicles" } },
+    { "key": "15.10", "title": { "en": "Washroom accessories and fittings" } },
+    { "key": "15.15", "title": { "en": "Lockers, shelving and storage units" } },
+    { "key": "15.20", "title": { "en": "Demountable and operable partitions" } },
+    { "key": "15.25", "title": { "en": "Fire extinguishers, cabinets and safety fittings" } },
+    { "key": "15.30", "title": { "en": "Entrance mats, protection and wall guards" } },
+    { "key": "15.35", "title": { "en": "Display cases, notice boards and fixtures" } },
+    { "key": "15.90", "title": { "en": "Other specialties and fittings" } }
+  ]
+}

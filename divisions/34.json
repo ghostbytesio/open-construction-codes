@@ -1,0 +1,15 @@
+{
+  "division": "34",
+  "title": { "en": "Professional Services & Fees" },
+  "sections": [
+    { "key": "34.00", "title": { "en": "Professional services and fees — general" } },
+    { "key": "34.05", "title": { "en": "Architectural and design fees" } },
+    { "key": "34.10", "title": { "en": "Engineering and consultancy fees" } },
+    { "key": "34.15", "title": { "en": "Cost consultancy and quantity surveying fees" } },
+    { "key": "34.20", "title": { "en": "Surveys, site investigation and testing fees" } },
+    { "key": "34.25", "title": { "en": "Project and construction management fees" } },
+    { "key": "34.30", "title": { "en": "Legal, planning and statutory consultancy" } },
+    { "key": "34.35", "title": { "en": "Commissioning, handover and certification fees" } },
+    { "key": "34.90", "title": { "en": "Other professional services and fees" } }
+  ]
+}

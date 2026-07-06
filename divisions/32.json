@@ -1,0 +1,16 @@
+{
+  "division": "32",
+  "title": { "en": "Energy Generation & Storage" },
+  "sections": [
+    { "key": "32.00", "title": { "en": "Energy generation and storage — general" } },
+    { "key": "32.05", "title": { "en": "Solar photovoltaic systems" } },
+    { "key": "32.10", "title": { "en": "Solar thermal and collectors" } },
+    { "key": "32.15", "title": { "en": "Wind turbine installation" } },
+    { "key": "32.20", "title": { "en": "Combined heat and power (CHP) plant" } },
+    { "key": "32.25", "title": { "en": "Battery energy storage systems" } },
+    { "key": "32.30", "title": { "en": "Geothermal and ground-source energy" } },
+    { "key": "32.35", "title": { "en": "Grid connection and export infrastructure" } },
+    { "key": "32.40", "title": { "en": "EV charging infrastructure" } },
+    { "key": "32.90", "title": { "en": "Other energy generation and storage" } }
+  ]
+}

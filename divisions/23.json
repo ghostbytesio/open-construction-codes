@@ -1,0 +1,18 @@
+{
+  "division": "23",
+  "title": { "en": "Electrical" },
+  "sections": [
+    { "key": "23.00", "title": { "en": "Electrical — general" } },
+    { "key": "23.05", "title": { "en": "Incoming supply, switchgear and distribution boards" } },
+    { "key": "23.10", "title": { "en": "Containment — cable tray, trunking and conduit" } },
+    { "key": "23.15", "title": { "en": "Power wiring, small power and final circuits" } },
+    { "key": "23.20", "title": { "en": "Interior lighting and luminaires" } },
+    { "key": "23.25", "title": { "en": "Exterior, site and street lighting" } },
+    { "key": "23.30", "title": { "en": "Emergency and standby lighting" } },
+    { "key": "23.35", "title": { "en": "Earthing, bonding and lightning protection" } },
+    { "key": "23.40", "title": { "en": "Standby generation and UPS" } },
+    { "key": "23.45", "title": { "en": "Medium and high-voltage installations" } },
+    { "key": "23.50", "title": { "en": "Testing, inspection and electrical commissioning" } },
+    { "key": "23.90", "title": { "en": "Other electrical work" } }
+  ]
+}

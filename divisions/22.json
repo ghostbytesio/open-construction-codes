@@ -1,0 +1,15 @@
+{
+  "division": "22",
+  "title": { "en": "Building Automation & Controls" },
+  "sections": [
+    { "key": "22.00", "title": { "en": "Building automation and controls — general" } },
+    { "key": "22.05", "title": { "en": "Building management system (BMS) and head-end" } },
+    { "key": "22.10", "title": { "en": "HVAC controls and field devices" } },
+    { "key": "22.15", "title": { "en": "Sensors, meters and instrumentation" } },
+    { "key": "22.20", "title": { "en": "Lighting control and management systems" } },
+    { "key": "22.25", "title": { "en": "Energy monitoring and metering" } },
+    { "key": "22.30", "title": { "en": "Controls integration and network gateways" } },
+    { "key": "22.35", "title": { "en": "Controls commissioning and tuning" } },
+    { "key": "22.90", "title": { "en": "Other automation and controls work" } }
+  ]
+}

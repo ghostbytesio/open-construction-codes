@@ -1,0 +1,18 @@
+{
+  "division": "27",
+  "title": { "en": "Utilities & Infrastructure" },
+  "sections": [
+    { "key": "27.00", "title": { "en": "Utilities and infrastructure — general" } },
+    { "key": "27.05", "title": { "en": "Potable water mains and distribution" } },
+    { "key": "27.10", "title": { "en": "Foul and sanitary sewer mains" } },
+    { "key": "27.15", "title": { "en": "Storm sewers and surface-water networks" } },
+    { "key": "27.20", "title": { "en": "Gas mains and distribution networks" } },
+    { "key": "27.25", "title": { "en": "District heating and cooling networks" } },
+    { "key": "27.30", "title": { "en": "Electrical distribution and substations (utility)" } },
+    { "key": "27.35", "title": { "en": "Telecoms and fibre ducting networks" } },
+    { "key": "27.40", "title": { "en": "Pumping stations and lift stations" } },
+    { "key": "27.45", "title": { "en": "Trenchless works — directional drilling and microtunnelling" } },
+    { "key": "27.50", "title": { "en": "Manholes, chambers and utility structures" } },
+    { "key": "27.90", "title": { "en": "Other utilities and infrastructure" } }
+  ]
+}

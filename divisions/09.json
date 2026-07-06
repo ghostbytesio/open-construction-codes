@@ -1,0 +1,17 @@
+{
+  "division": "09",
+  "title": { "en": "Roofing & Waterproofing" },
+  "sections": [
+    { "key": "09.00", "title": { "en": "Roofing and waterproofing — general" } },
+    { "key": "09.05", "title": { "en": "Pitched roof tiling and slating" } },
+    { "key": "09.10", "title": { "en": "Metal roofing and standing-seam systems" } },
+    { "key": "09.15", "title": { "en": "Flat roof membranes — single-ply and built-up" } },
+    { "key": "09.20", "title": { "en": "Liquid-applied and hot-melt waterproofing" } },
+    { "key": "09.25", "title": { "en": "Green roofs and roof gardens" } },
+    { "key": "09.30", "title": { "en": "Roof drainage, gutters and rainwater goods" } },
+    { "key": "09.35", "title": { "en": "Flashings, copings and roof trims" } },
+    { "key": "09.40", "title": { "en": "Rooflights, skylights and roof access" } },
+    { "key": "09.45", "title": { "en": "Below-grade and tanking waterproofing" }, "description": { "en": "Applied below-grade waterproofing and tanking bought as a waterproofing subcontract; see 04.40 for structural basement packages with integral waterproof construction." } },
+    { "key": "09.90", "title": { "en": "Other roofing and waterproofing" } }
+  ]
+}

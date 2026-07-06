@@ -1,0 +1,16 @@
+{
+  "division": "06",
+  "title": { "en": "Masonry" },
+  "sections": [
+    { "key": "06.00", "title": { "en": "Masonry — general" } },
+    { "key": "06.05", "title": { "en": "Brickwork and facing brick" } },
+    { "key": "06.10", "title": { "en": "Blockwork and concrete masonry" } },
+    { "key": "06.15", "title": { "en": "Natural and cast stone masonry" } },
+    { "key": "06.20", "title": { "en": "Cavity walls, ties and insulation" } },
+    { "key": "06.25", "title": { "en": "Reinforced and structural masonry" } },
+    { "key": "06.30", "title": { "en": "Masonry repair, repointing and restoration" } },
+    { "key": "06.35", "title": { "en": "Glass block and specialty masonry" } },
+    { "key": "06.40", "title": { "en": "Damp-proof courses and cavity trays" } },
+    { "key": "06.90", "title": { "en": "Other masonry work" } }
+  ]
+}

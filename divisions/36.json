@@ -3,13 +3,13 @@
   "title": { "en": "Contingency & Allowances" },
   "sections": [
     { "key": "36.00", "title": { "en": "Contingency and allowances — general" } },
-    { "key": "36.05", "title": { "en": "Design and development contingency" } },
-    { "key": "36.10", "title": { "en": "Construction and risk contingency" } },
-    { "key": "36.15", "title": { "en": "Provisional sums" } },
-    { "key": "36.20", "title": { "en": "Prime cost and supply allowances" } },
-    { "key": "36.25", "title": { "en": "Dayworks and undefined works allowance" } },
-    { "key": "36.30", "title": { "en": "Inflation and price-escalation allowance" } },
-    { "key": "36.35", "title": { "en": "Client-held reserve and management contingency" } },
-    { "key": "36.90", "title": { "en": "Other contingency and allowances" } }
+    { "key": "36.01", "title": { "en": "Design and development contingency" } },
+    { "key": "36.02", "title": { "en": "Construction and risk contingency" } },
+    { "key": "36.03", "title": { "en": "Provisional sums" } },
+    { "key": "36.04", "title": { "en": "Prime cost and supply allowances" } },
+    { "key": "36.05", "title": { "en": "Dayworks and undefined works allowance" } },
+    { "key": "36.06", "title": { "en": "Inflation and price-escalation allowance" } },
+    { "key": "36.07", "title": { "en": "Client-held reserve and management contingency" } },
+    { "key": "36.08", "title": { "en": "Other contingency and allowances" } }
   ]
 }

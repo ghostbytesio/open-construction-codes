@@ -3,13 +3,13 @@
   "title": { "en": "Pollution Control & Waste" },
   "sections": [
     { "key": "31.00", "title": { "en": "Pollution control and waste — general" } },
-    { "key": "31.05", "title": { "en": "Water treatment plant and equipment" } },
-    { "key": "31.10", "title": { "en": "Wastewater and sewage treatment" } },
-    { "key": "31.15", "title": { "en": "Air pollution control and scrubbers" } },
-    { "key": "31.20", "title": { "en": "Solid waste handling and transfer" } },
-    { "key": "31.25", "title": { "en": "Landfill engineering and containment" } },
-    { "key": "31.30", "title": { "en": "Odour, dust and emissions control" } },
-    { "key": "31.35", "title": { "en": "Spill containment and bunding" } },
-    { "key": "31.90", "title": { "en": "Other pollution control and waste work" } }
+    { "key": "31.01", "title": { "en": "Water treatment plant and equipment" } },
+    { "key": "31.02", "title": { "en": "Wastewater and sewage treatment" } },
+    { "key": "31.03", "title": { "en": "Air pollution control and scrubbers" } },
+    { "key": "31.04", "title": { "en": "Solid waste handling and transfer" } },
+    { "key": "31.05", "title": { "en": "Landfill engineering and containment" } },
+    { "key": "31.06", "title": { "en": "Odour, dust and emissions control" } },
+    { "key": "31.07", "title": { "en": "Spill containment and bunding" } },
+    { "key": "31.08", "title": { "en": "Other pollution control and waste work" } }
   ]
 }

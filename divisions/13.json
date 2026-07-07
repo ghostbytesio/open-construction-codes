@@ -3,16 +3,16 @@
   "title": { "en": "Interior Finishes" },
   "sections": [
     { "key": "13.00", "title": { "en": "Interior finishes — general" } },
-    { "key": "13.05", "title": { "en": "Drywall / plasterboard partitions and linings" } },
-    { "key": "13.10", "title": { "en": "Plastering and rendering internally" } },
-    { "key": "13.15", "title": { "en": "Suspended and feature ceilings" } },
-    { "key": "13.20", "title": { "en": "Raised access flooring" } },
-    { "key": "13.25", "title": { "en": "Screeds and floor levelling" } },
-    { "key": "13.30", "title": { "en": "Tiling to floors and walls" } },
-    { "key": "13.35", "title": { "en": "Resilient, vinyl and carpet flooring" } },
-    { "key": "13.40", "title": { "en": "Timber, laminate and resin flooring" } },
-    { "key": "13.45", "title": { "en": "Painting and decorating" } },
-    { "key": "13.50", "title": { "en": "Wall coverings and decorative panelling" } },
-    { "key": "13.90", "title": { "en": "Other interior finishes" } }
+    { "key": "13.01", "title": { "en": "Drywall / plasterboard partitions and linings" } },
+    { "key": "13.02", "title": { "en": "Plastering and rendering internally" } },
+    { "key": "13.03", "title": { "en": "Suspended and feature ceilings" } },
+    { "key": "13.04", "title": { "en": "Raised access flooring" } },
+    { "key": "13.05", "title": { "en": "Screeds and floor levelling" } },
+    { "key": "13.06", "title": { "en": "Tiling to floors and walls" } },
+    { "key": "13.07", "title": { "en": "Resilient, vinyl and carpet flooring" } },
+    { "key": "13.08", "title": { "en": "Timber, laminate and resin flooring" } },
+    { "key": "13.09", "title": { "en": "Painting and decorating" } },
+    { "key": "13.10", "title": { "en": "Wall coverings and decorative panelling" } },
+    { "key": "13.11", "title": { "en": "Other interior finishes" } }
   ]
 }

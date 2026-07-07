@@ -3,12 +3,12 @@
   "title": { "en": "Permits, Insurance & Bonds" },
   "sections": [
     { "key": "35.00", "title": { "en": "Permits, insurance and bonds — general" } },
-    { "key": "35.05", "title": { "en": "Planning, building control and permit fees" } },
-    { "key": "35.10", "title": { "en": "Utility connection and authority charges" } },
-    { "key": "35.15", "title": { "en": "Construction and project insurance" } },
-    { "key": "35.20", "title": { "en": "Performance bonds and guarantees" } },
-    { "key": "35.25", "title": { "en": "Warranties and latent-defect cover" } },
-    { "key": "35.30", "title": { "en": "Licences, wayleaves and easements" } },
-    { "key": "35.90", "title": { "en": "Other permits, insurance and bonds" } }
+    { "key": "35.01", "title": { "en": "Planning, building control and permit fees" } },
+    { "key": "35.02", "title": { "en": "Utility connection and authority charges" } },
+    { "key": "35.03", "title": { "en": "Construction and project insurance" } },
+    { "key": "35.04", "title": { "en": "Performance bonds and guarantees" } },
+    { "key": "35.05", "title": { "en": "Warranties and latent-defect cover" } },
+    { "key": "35.06", "title": { "en": "Licences, wayleaves and easements" } },
+    { "key": "35.07", "title": { "en": "Other permits, insurance and bonds" } }
   ]
 }

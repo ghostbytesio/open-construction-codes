@@ -22,6 +22,14 @@
 // a separate (later) pipeline that builds THEIR scheme packs — they are not
 // occ-pack content.
 //
+// Every code also carries an `order` — a single 0-based GLOBAL display rank
+// across the whole pack, in display order (each division immediately followed
+// by its sections): 01 -> 0, 01.00 -> 1, 01.01 -> 2, …, 02 -> next, and so on.
+// This is the DISPLAY order, decoupled from the key (a key is a stable
+// identifier that does NOT encode sequence — see GOVERNANCE.md). A consumer
+// renders the catalog by simply sorting on `order`, so display stays correct
+// even when a future section's key is out of key-order.
+//
 // content_hash canonicalization (MUST match `SchemePack::parse`'s
 // re-verification in
 // api/crates/cm-domain/src/models/construction/scheme_pack.rs byte for
@@ -31,12 +39,14 @@
 // formatting):
 //   1. Sort `codes` by `key` (ascending, plain string compare).
 //   2. For each code, in that sorted order, build the plain-text line:
-//        `${key}|${parent_key ?? ""}|${title.en}|${deprecated}|${successor ?? ""}`
-//      (`deprecated` rendered as the literal string "true"/"false"; a pack
-//      built by this script never has `deprecated`/`successor` set, so those
-//      two fields are always "false"/"" here — the format still carries them
-//      so a later hand-authored or edited pack, e.g. a scheme's next
-//      version marking retired codes, hashes the same way.)
+//        `${key}|${parent_key ?? ""}|${title.en}|${deprecated}|${successor ?? ""}|${order}`
+//      (`deprecated` rendered as the literal string "true"/"false"; `order` as
+//      its base-10 integer. A pack built by this script never has
+//      `deprecated`/`successor` set, so those are "false"/"" here — the format
+//      still carries them so a later hand-authored or edited pack, e.g. a
+//      scheme's next version marking retired codes, hashes the same way.
+//      `order` IS included so re-ordering display is a detectable content
+//      change → new hash → patch release.)
 //   3. Join those lines with "\n" (no trailing newline).
 //   4. sha256, hex-encoded (lowercase) digest of that UTF-8 string.
 // This DEVIATES from an earlier sketch of hashing `JSON.stringify(codes)` —
@@ -58,7 +68,7 @@ const EXPORTS_DIR = resolve(HERE, "..", "exports");
 const OUT_PATH = join(EXPORTS_DIR, "occ-pack.json");
 
 const SCHEME = "occ";
-const VERSION_LABEL = "0.1.0";
+const VERSION_LABEL = readFileSync(resolve(HERE, "..", "VERSION"), "utf8").trim();
 
 function fatal(msg) {
   console.error(`FATAL: ${msg}`);
@@ -83,6 +93,7 @@ if (files.length === 0) {
 // canonicalization re-sorts by key regardless, so this build-order is just
 // for a stable, readable JSON file; it is not the hash's sort.
 const codes = [];
+let order = 0; // single global display rank, incremented for every code in display order
 for (const file of files) {
   const path = join(DIVISIONS_DIR, file);
   let data;
@@ -104,6 +115,7 @@ for (const file of files) {
     title: { en: divisionTitleEn },
     deprecated: false,
     successor: null,
+    order: order++,
   });
 
   const sections = Array.isArray(data.sections) ? data.sections : [];
@@ -118,8 +130,9 @@ for (const file of files) {
       title: { en: sectionTitleEn },
       deprecated: false,
       successor: null,
-      // s.description is deliberately NOT carried onto the pack code — see
-      // the module doc: v0.1 pack codes are titles only.
+      // order = global DISPLAY rank (see module doc). Decoupled from the key.
+      order: order++,
+      // s.description is deliberately NOT carried onto the pack code.
     });
   }
 }
@@ -132,7 +145,7 @@ function contentHash(codeRows) {
     const titleEn = c.title.en;
     const deprecated = c.deprecated ? "true" : "false";
     const successor = c.successor ?? "";
-    return `${c.key}|${parent}|${titleEn}|${deprecated}|${successor}`;
+    return `${c.key}|${parent}|${titleEn}|${deprecated}|${successor}|${c.order}`;
   });
   const canonical = lines.join("\n");
   return createHash("sha256").update(canonical, "utf8").digest("hex");

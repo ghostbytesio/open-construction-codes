@@ -3,14 +3,14 @@
   "title": { "en": "Special Construction & Prefabrication" },
   "sections": [
     { "key": "17.00", "title": { "en": "Special construction and prefabrication — general" } },
-    { "key": "17.05", "title": { "en": "Modular and volumetric building units" } },
-    { "key": "17.10", "title": { "en": "Prefabricated bathroom and service pods" } },
-    { "key": "17.15", "title": { "en": "Pre-engineered metal buildings" } },
-    { "key": "17.20", "title": { "en": "Fabric, tensile and air-supported structures" } },
-    { "key": "17.25", "title": { "en": "Cold rooms, cleanrooms and controlled environments" } },
-    { "key": "17.30", "title": { "en": "Swimming pools, spas and water features" } },
-    { "key": "17.35", "title": { "en": "Radiation, acoustic and specialty shielding" } },
-    { "key": "17.40", "title": { "en": "Vaults, safes and secure rooms" } },
-    { "key": "17.90", "title": { "en": "Other special construction" } }
+    { "key": "17.01", "title": { "en": "Modular and volumetric building units" } },
+    { "key": "17.02", "title": { "en": "Prefabricated bathroom and service pods" } },
+    { "key": "17.03", "title": { "en": "Pre-engineered metal buildings" } },
+    { "key": "17.04", "title": { "en": "Fabric, tensile and air-supported structures" } },
+    { "key": "17.05", "title": { "en": "Cold rooms, cleanrooms and controlled environments" } },
+    { "key": "17.06", "title": { "en": "Swimming pools, spas and water features" } },
+    { "key": "17.07", "title": { "en": "Radiation, acoustic and specialty shielding" } },
+    { "key": "17.08", "title": { "en": "Vaults, safes and secure rooms" } },
+    { "key": "17.09", "title": { "en": "Other special construction" } }
   ]
 }

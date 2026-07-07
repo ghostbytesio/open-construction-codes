@@ -3,16 +3,16 @@
   "title": { "en": "Concrete" },
   "sections": [
     { "key": "05.00", "title": { "en": "Concrete — general" } },
-    { "key": "05.05", "title": { "en": "Formwork and falsework" } },
-    { "key": "05.10", "title": { "en": "Rebar / reinforcement steel" } },
-    { "key": "05.15", "title": { "en": "Cast-in-place structural concrete" } },
-    { "key": "05.20", "title": { "en": "Suspended slabs and concrete floors" } },
-    { "key": "05.25", "title": { "en": "Precast concrete units" } },
-    { "key": "05.30", "title": { "en": "Post-tensioning and prestressed concrete" } },
-    { "key": "05.35", "title": { "en": "Sprayed concrete and shotcrete" } },
-    { "key": "05.40", "title": { "en": "Concrete finishing, curing and toppings" } },
-    { "key": "05.45", "title": { "en": "Grouting, repair and remedial concrete" } },
-    { "key": "05.50", "title": { "en": "Architectural and exposed concrete" } },
-    { "key": "05.90", "title": { "en": "Other concrete work" } }
+    { "key": "05.01", "title": { "en": "Formwork and falsework" } },
+    { "key": "05.02", "title": { "en": "Rebar / reinforcement steel" } },
+    { "key": "05.03", "title": { "en": "Cast-in-place structural concrete" } },
+    { "key": "05.04", "title": { "en": "Suspended slabs and concrete floors" } },
+    { "key": "05.05", "title": { "en": "Precast concrete units" } },
+    { "key": "05.06", "title": { "en": "Post-tensioning and prestressed concrete" } },
+    { "key": "05.07", "title": { "en": "Sprayed concrete and shotcrete" } },
+    { "key": "05.08", "title": { "en": "Concrete finishing, curing and toppings" } },
+    { "key": "05.09", "title": { "en": "Grouting, repair and remedial concrete" } },
+    { "key": "05.10", "title": { "en": "Architectural and exposed concrete" } },
+    { "key": "05.11", "title": { "en": "Other concrete work" } }
   ]
 }

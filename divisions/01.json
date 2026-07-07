@@ -3,16 +3,16 @@
   "title": { "en": "Preliminaries & Project General" },
   "sections": [
     { "key": "01.00", "title": { "en": "Preliminaries — general" } },
-    { "key": "01.05", "title": { "en": "Site setup and mobilisation" } },
-    { "key": "01.10", "title": { "en": "Site offices, welfare and temporary accommodation" } },
-    { "key": "01.15", "title": { "en": "Hoarding, fencing and site security" } },
-    { "key": "01.20", "title": { "en": "Temporary power, water and utilities" } },
-    { "key": "01.25", "title": { "en": "Access, temporary roads and traffic management" } },
-    { "key": "01.30", "title": { "en": "Project management, supervision and site staff" } },
-    { "key": "01.35", "title": { "en": "Health, safety and environmental management" } },
-    { "key": "01.40", "title": { "en": "Survey, setting out and instrument work" } },
-    { "key": "01.45", "title": { "en": "Testing, commissioning and inspection" } },
-    { "key": "01.55", "title": { "en": "Handover, close-out and record documents" } },
-    { "key": "01.90", "title": { "en": "Other preliminaries and general items" } }
+    { "key": "01.01", "title": { "en": "Site setup and mobilisation" } },
+    { "key": "01.02", "title": { "en": "Site offices, welfare and temporary accommodation" } },
+    { "key": "01.03", "title": { "en": "Hoarding, fencing and site security" } },
+    { "key": "01.04", "title": { "en": "Temporary power, water and utilities" } },
+    { "key": "01.05", "title": { "en": "Access, temporary roads and traffic management" } },
+    { "key": "01.06", "title": { "en": "Project management, supervision and site staff" } },
+    { "key": "01.07", "title": { "en": "Health, safety and environmental management" } },
+    { "key": "01.08", "title": { "en": "Survey, setting out and instrument work" } },
+    { "key": "01.09", "title": { "en": "Testing, commissioning and inspection" } },
+    { "key": "01.10", "title": { "en": "Handover, close-out and record documents" } },
+    { "key": "01.11", "title": { "en": "Other preliminaries and general items" } }
   ]
 }

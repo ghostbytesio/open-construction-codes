@@ -3,16 +3,16 @@
   "title": { "en": "Substructure & Foundations" },
   "sections": [
     { "key": "04.00", "title": { "en": "Substructure — general" } },
-    { "key": "04.05", "title": { "en": "Strip, pad and trench-fill foundations" } },
-    { "key": "04.10", "title": { "en": "Raft and mat foundations" } },
-    { "key": "04.15", "title": { "en": "Driven and precast piling" } },
-    { "key": "04.20", "title": { "en": "Bored and cast-in-place piling" } },
-    { "key": "04.25", "title": { "en": "Pile caps and ground beams" } },
-    { "key": "04.30", "title": { "en": "Retaining walls and diaphragm walls" } },
-    { "key": "04.35", "title": { "en": "Underpinning and foundation strengthening" } },
-    { "key": "04.40", "title": { "en": "Basement construction and waterproof tanking" }, "description": { "en": "The structural basement package including integral waterproof construction; see 09.45 for applied below-grade waterproofing subcontracts." } },
-    { "key": "04.45", "title": { "en": "Ground-bearing slabs and floor beds" } },
-    { "key": "04.50", "title": { "en": "Ground-gas and damp-proof membranes" } },
-    { "key": "04.90", "title": { "en": "Other substructure and foundation work" } }
+    { "key": "04.01", "title": { "en": "Strip, pad and trench-fill foundations" } },
+    { "key": "04.02", "title": { "en": "Raft and mat foundations" } },
+    { "key": "04.03", "title": { "en": "Driven and precast piling" } },
+    { "key": "04.04", "title": { "en": "Bored and cast-in-place piling" } },
+    { "key": "04.05", "title": { "en": "Pile caps and ground beams" } },
+    { "key": "04.06", "title": { "en": "Retaining walls and diaphragm walls" } },
+    { "key": "04.07", "title": { "en": "Underpinning and foundation strengthening" } },
+    { "key": "04.08", "title": { "en": "Basement construction and waterproof tanking" }, "description": { "en": "The structural basement package including integral waterproof construction; see 09.09 for applied below-grade waterproofing subcontracts." } },
+    { "key": "04.09", "title": { "en": "Ground-bearing slabs and floor beds" } },
+    { "key": "04.10", "title": { "en": "Ground-gas and damp-proof membranes" } },
+    { "key": "04.11", "title": { "en": "Other substructure and foundation work" } }
   ]
 }

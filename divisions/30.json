@@ -3,15 +3,15 @@
   "title": { "en": "Process & Industrial Equipment" },
   "sections": [
     { "key": "30.00", "title": { "en": "Process and industrial equipment — general" } },
-    { "key": "30.05", "title": { "en": "Tanks, silos and storage vessels" } },
-    { "key": "30.10", "title": { "en": "Process piping and pipework systems" } },
-    { "key": "30.15", "title": { "en": "Pumps, compressors and rotating equipment" } },
-    { "key": "30.20", "title": { "en": "Conveyors and bulk material handling" } },
-    { "key": "30.25", "title": { "en": "Boilers, furnaces and process heating" } },
-    { "key": "30.30", "title": { "en": "Heat exchangers and process cooling" } },
-    { "key": "30.35", "title": { "en": "Process instrumentation and control valves" } },
-    { "key": "30.40", "title": { "en": "Packaged plant and skid-mounted units" } },
-    { "key": "30.45", "title": { "en": "Equipment installation, alignment and setting" } },
-    { "key": "30.90", "title": { "en": "Other process and industrial equipment" } }
+    { "key": "30.01", "title": { "en": "Tanks, silos and storage vessels" } },
+    { "key": "30.02", "title": { "en": "Process piping and pipework systems" } },
+    { "key": "30.03", "title": { "en": "Pumps, compressors and rotating equipment" } },
+    { "key": "30.04", "title": { "en": "Conveyors and bulk material handling" } },
+    { "key": "30.05", "title": { "en": "Boilers, furnaces and process heating" } },
+    { "key": "30.06", "title": { "en": "Heat exchangers and process cooling" } },
+    { "key": "30.07", "title": { "en": "Process instrumentation and control valves" } },
+    { "key": "30.08", "title": { "en": "Packaged plant and skid-mounted units" } },
+    { "key": "30.09", "title": { "en": "Equipment installation, alignment and setting" } },
+    { "key": "30.10", "title": { "en": "Other process and industrial equipment" } }
   ]
 }

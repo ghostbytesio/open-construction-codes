@@ -3,14 +3,14 @@
   "title": { "en": "Joinery, Casework & Furnishings" },
   "sections": [
     { "key": "14.00", "title": { "en": "Joinery and furnishings — general" } },
-    { "key": "14.05", "title": { "en": "Architectural joinery and bespoke millwork" } },
-    { "key": "14.10", "title": { "en": "Fitted casework and cabinetry" } },
-    { "key": "14.15", "title": { "en": "Kitchens and worktops" } },
-    { "key": "14.20", "title": { "en": "Skirting / baseboard, trim and mouldings" } },
-    { "key": "14.25", "title": { "en": "Countertops and solid-surface fabrications" } },
-    { "key": "14.30", "title": { "en": "Loose and fitted furniture (FF&E)" } },
-    { "key": "14.35", "title": { "en": "Window treatments, blinds and curtains" } },
-    { "key": "14.40", "title": { "en": "Signage and wayfinding" } },
-    { "key": "14.90", "title": { "en": "Other joinery and furnishings" } }
+    { "key": "14.01", "title": { "en": "Architectural joinery and bespoke millwork" } },
+    { "key": "14.02", "title": { "en": "Fitted casework and cabinetry" } },
+    { "key": "14.03", "title": { "en": "Kitchens and worktops" } },
+    { "key": "14.04", "title": { "en": "Skirting / baseboard, trim and mouldings" } },
+    { "key": "14.05", "title": { "en": "Countertops and solid-surface fabrications" } },
+    { "key": "14.06", "title": { "en": "Loose and fitted furniture (FF&E)" } },
+    { "key": "14.07", "title": { "en": "Window treatments, blinds and curtains" } },
+    { "key": "14.08", "title": { "en": "Signage and wayfinding" } },
+    { "key": "14.09", "title": { "en": "Other joinery and furnishings" } }
   ]
 }

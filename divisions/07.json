@@ -3,15 +3,15 @@
   "title": { "en": "Structural Steel & Metalwork" },
   "sections": [
     { "key": "07.00", "title": { "en": "Structural steel and metalwork — general" } },
-    { "key": "07.05", "title": { "en": "Structural steel frame — fabrication and erection" } },
-    { "key": "07.10", "title": { "en": "Metal decking and floor deck" } },
-    { "key": "07.15", "title": { "en": "Cold-formed steel framing and studwork" } },
-    { "key": "07.20", "title": { "en": "Stairs, ladders and walkways" } },
-    { "key": "07.25", "title": { "en": "Handrails, balustrades and guardrails" } },
-    { "key": "07.30", "title": { "en": "Architectural and ornamental metalwork" } },
-    { "key": "07.35", "title": { "en": "Structural bolting, welding and connections" } },
-    { "key": "07.40", "title": { "en": "Protective coatings and galvanising for steel" } },
-    { "key": "07.45", "title": { "en": "Aluminium and stainless fabrications" } },
-    { "key": "07.90", "title": { "en": "Other structural steel and metalwork" } }
+    { "key": "07.01", "title": { "en": "Structural steel frame — fabrication and erection" } },
+    { "key": "07.02", "title": { "en": "Metal decking and floor deck" } },
+    { "key": "07.03", "title": { "en": "Cold-formed steel framing and studwork" } },
+    { "key": "07.04", "title": { "en": "Stairs, ladders and walkways" } },
+    { "key": "07.05", "title": { "en": "Handrails, balustrades and guardrails" } },
+    { "key": "07.06", "title": { "en": "Architectural and ornamental metalwork" } },
+    { "key": "07.07", "title": { "en": "Structural bolting, welding and connections" } },
+    { "key": "07.08", "title": { "en": "Protective coatings and galvanising for steel" } },
+    { "key": "07.09", "title": { "en": "Aluminium and stainless fabrications" } },
+    { "key": "07.10", "title": { "en": "Other structural steel and metalwork" } }
   ]
 }

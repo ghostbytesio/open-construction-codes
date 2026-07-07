@@ -3,14 +3,14 @@
   "title": { "en": "Insulation & Thermal-Moisture Protection" },
   "sections": [
     { "key": "12.00", "title": { "en": "Insulation and moisture protection — general" } },
-    { "key": "12.05", "title": { "en": "Thermal insulation to walls, floors and roofs" } },
-    { "key": "12.10", "title": { "en": "Acoustic and sound insulation" } },
-    { "key": "12.15", "title": { "en": "Spray foam and injected insulation" } },
-    { "key": "12.20", "title": { "en": "Air and vapour barriers and breather membranes" } },
-    { "key": "12.25", "title": { "en": "Damp-proofing and moisture control" } },
-    { "key": "12.30", "title": { "en": "Firestopping and penetration sealing" } },
-    { "key": "12.35", "title": { "en": "Passive fire protection and intumescent coatings" }, "description": { "en": "Includes sprayed fire-resistive material (SFRM) and intumescent coatings to structural steel frames; steel-frame fireproofing packages are coded here, not in 07." } },
-    { "key": "12.40", "title": { "en": "Joint sealants, mastics and weatherproofing" } },
-    { "key": "12.90", "title": { "en": "Other insulation and moisture protection" } }
+    { "key": "12.01", "title": { "en": "Thermal insulation to walls, floors and roofs" } },
+    { "key": "12.02", "title": { "en": "Acoustic and sound insulation" } },
+    { "key": "12.03", "title": { "en": "Spray foam and injected insulation" } },
+    { "key": "12.04", "title": { "en": "Air and vapour barriers and breather membranes" } },
+    { "key": "12.05", "title": { "en": "Damp-proofing and moisture control" } },
+    { "key": "12.06", "title": { "en": "Firestopping and penetration sealing" } },
+    { "key": "12.07", "title": { "en": "Passive fire protection and intumescent coatings" }, "description": { "en": "Includes sprayed fire-resistive material (SFRM) and intumescent coatings to structural steel frames; steel-frame fireproofing packages are coded here, not in 07." } },
+    { "key": "12.08", "title": { "en": "Joint sealants, mastics and weatherproofing" } },
+    { "key": "12.09", "title": { "en": "Other insulation and moisture protection" } }
   ]
 }

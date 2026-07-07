@@ -3,13 +3,13 @@
   "title": { "en": "Communications & Data" },
   "sections": [
     { "key": "24.00", "title": { "en": "Communications and data — general" } },
-    { "key": "24.05", "title": { "en": "Structured cabling and containment" } },
-    { "key": "24.10", "title": { "en": "Data centre and equipment rooms" } },
-    { "key": "24.15", "title": { "en": "Network active equipment and switching" } },
-    { "key": "24.20", "title": { "en": "Fibre-optic backbone and splicing" } },
-    { "key": "24.25", "title": { "en": "Wireless, distributed antenna and mobile coverage" } },
-    { "key": "24.30", "title": { "en": "Telephone, intercom and paging systems" } },
-    { "key": "24.35", "title": { "en": "Audio-visual and conferencing systems" } },
-    { "key": "24.90", "title": { "en": "Other communications and data work" } }
+    { "key": "24.01", "title": { "en": "Structured cabling and containment" } },
+    { "key": "24.02", "title": { "en": "Data centre and equipment rooms" } },
+    { "key": "24.03", "title": { "en": "Network active equipment and switching" } },
+    { "key": "24.04", "title": { "en": "Fibre-optic backbone and splicing" } },
+    { "key": "24.05", "title": { "en": "Wireless, distributed antenna and mobile coverage" } },
+    { "key": "24.06", "title": { "en": "Telephone, intercom and paging systems" } },
+    { "key": "24.07", "title": { "en": "Audio-visual and conferencing systems" } },
+    { "key": "24.08", "title": { "en": "Other communications and data work" } }
   ]
 }

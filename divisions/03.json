@@ -3,16 +3,16 @@
   "title": { "en": "Groundworks & Earthwork" },
   "sections": [
     { "key": "03.00", "title": { "en": "Groundworks — general" } },
-    { "key": "03.05", "title": { "en": "Topsoil stripping and stockpiling" } },
-    { "key": "03.10", "title": { "en": "Bulk excavation and cut-to-fill" } },
-    { "key": "03.15", "title": { "en": "Trench and pit excavation" } },
-    { "key": "03.20", "title": { "en": "Filling, backfill and compaction" } },
-    { "key": "03.25", "title": { "en": "Earthwork support and trench shoring" } },
-    { "key": "03.30", "title": { "en": "Ground improvement and soil stabilisation" } },
-    { "key": "03.35", "title": { "en": "Dewatering and groundwater control" } },
-    { "key": "03.40", "title": { "en": "Grading, levelling and earthmoving" } },
-    { "key": "03.45", "title": { "en": "Rock excavation and blasting" } },
-    { "key": "03.50", "title": { "en": "Muck-away, disposal and haulage of spoil" } },
-    { "key": "03.90", "title": { "en": "Other groundworks and earthwork" } }
+    { "key": "03.01", "title": { "en": "Topsoil stripping and stockpiling" } },
+    { "key": "03.02", "title": { "en": "Bulk excavation and cut-to-fill" } },
+    { "key": "03.03", "title": { "en": "Trench and pit excavation" } },
+    { "key": "03.04", "title": { "en": "Filling, backfill and compaction" } },
+    { "key": "03.05", "title": { "en": "Earthwork support and trench shoring" } },
+    { "key": "03.06", "title": { "en": "Ground improvement and soil stabilisation" } },
+    { "key": "03.07", "title": { "en": "Dewatering and groundwater control" } },
+    { "key": "03.08", "title": { "en": "Grading, levelling and earthmoving" } },
+    { "key": "03.09", "title": { "en": "Rock excavation and blasting" } },
+    { "key": "03.10", "title": { "en": "Muck-away, disposal and haulage of spoil" } },
+    { "key": "03.11", "title": { "en": "Other groundworks and earthwork" } }
   ]
 }

@@ -3,15 +3,15 @@
   "title": { "en": "Enabling Works & Demolition" },
   "sections": [
     { "key": "02.00", "title": { "en": "Enabling works — general" } },
-    { "key": "02.05", "title": { "en": "Site clearance and vegetation stripping" } },
-    { "key": "02.10", "title": { "en": "Building demolition and structure takedown" } },
-    { "key": "02.15", "title": { "en": "Selective demolition and soft strip-out" } },
-    { "key": "02.20", "title": { "en": "Hazardous material removal — asbestos and lead" } },
-    { "key": "02.25", "title": { "en": "Contaminated land remediation" } },
-    { "key": "02.30", "title": { "en": "Underground obstruction and old foundation removal" } },
-    { "key": "02.35", "title": { "en": "Temporary shoring, propping and facade retention" } },
-    { "key": "02.40", "title": { "en": "Site protection and tree preservation" } },
-    { "key": "02.45", "title": { "en": "Salvage, deconstruction and material recovery" } },
-    { "key": "02.90", "title": { "en": "Other enabling and demolition work" } }
+    { "key": "02.01", "title": { "en": "Site clearance and vegetation stripping" } },
+    { "key": "02.02", "title": { "en": "Building demolition and structure takedown" } },
+    { "key": "02.03", "title": { "en": "Selective demolition and soft strip-out" } },
+    { "key": "02.04", "title": { "en": "Hazardous material removal — asbestos and lead" } },
+    { "key": "02.05", "title": { "en": "Contaminated land remediation" } },
+    { "key": "02.06", "title": { "en": "Underground obstruction and old foundation removal" } },
+    { "key": "02.07", "title": { "en": "Temporary shoring, propping and facade retention" } },
+    { "key": "02.08", "title": { "en": "Site protection and tree preservation" } },
+    { "key": "02.09", "title": { "en": "Salvage, deconstruction and material recovery" } },
+    { "key": "02.10", "title": { "en": "Other enabling and demolition work" } }
   ]
 }
